@@ -1,0 +1,1 @@
+# En app för en investeringskalkylator
